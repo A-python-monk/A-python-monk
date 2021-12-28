@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @A-python-monk
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on web dev
+- 👋 Hi, I’m Shubham raj singh
+- 👀 I’m interested in WebDevelopment and leanring the techonlogy more and more.
+- 🌱 I’m currently learning webdev
+- 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me iamshubhamrajsingh@gmail.com
 
 <!---
